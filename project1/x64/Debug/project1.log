@@ -1,14 +1,4 @@
 ﻿  main.cpp
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(366,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(372,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(382,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(394,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(395,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(396,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(421,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(422,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(423,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(431,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(432,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\y2h75\Desktop\컴퓨터학원\project1\main.cpp(433,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  project1.vcxproj -> C:\Users\y2h75\Desktop\컴퓨터학원\project1\x64\Debug\project1.exe
+C:\Users\y2h75\Desktop\Project1\main.cpp(48,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\y2h75\Desktop\Project1\main.cpp(53,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\y2h75\Desktop\Project1\x64\Debug\Project1.exe
