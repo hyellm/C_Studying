@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\y2h75\Desktop\Project3\main.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-C:\Users\y2h75\Desktop\Project3\main.cpp(32,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Project3.vcxproj -> C:\Users\y2h75\Desktop\Project3\x64\Debug\Project3.exe
